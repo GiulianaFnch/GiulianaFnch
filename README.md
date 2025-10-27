@@ -44,13 +44,13 @@ I am actively looking for an **internship** where I can contribute to meaningful
 
 ---
 
-### 🎶 Music & Hobbies
+### 🎶 Hobbies
 
-When I'm not coding, you can find me listening to music pretty much all day. I'm also a big fan of horses and equestrian sports, especially dressage and show jumping 🏇.
+You can find me listening to music pretty much all day. I'm also a big fan of horses and equestrian sports, especially dressage and show jumping 🏇.
 
-<a href="https://open.spotify.com/user/12162411767">
+[//]: # (<a href="https://open.spotify.com/user/12162411767">
   <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" width="400" />
-</a>
+</a>)
 
 ---
 
