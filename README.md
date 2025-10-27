@@ -1,16 +1,66 @@
-## Hi there 👋
+# Hi, I'm Giuliana Finochio 👋
 
-<!--
-**GiulianaFnch/GiulianaFnch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Student AI Developer passionate about building software with real impact.
 
-Here are some ideas to get you started:
+[![Portfolio](https://img.shields.io/badge/website-portfolio-blue)](https://giulianafnch.github.io/) [![LinkedIn](https://img.shields.io/badge/linkedin-connect-0077B5)](https://linkedin.com/in/giuliana-finochio-b8a42a225/) [![Email](https://img.shields.io/badge/email-finochio44%40gmail.com-green)](mailto:finochio44@gmail.com) [![Instagram](https://img.shields.io/badge/instagram-@giulianafnch-purple)](https://instagram.com/giulianafnch/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About Me
+
+I'm a student in an Artificial Intelligence Applications Development course at ISLA Gaia, where I'm building a strong foundation in AI and software engineering. I am passionate about developing software that has a real impact, always keeping the UI, user experience, and data insights in mind.
+
+- **Current focus:** Developing my technical skills in the AI field, including Machine Learning, LLMs, Python development, and data engineering.
+- **I'm currently learning:** Advanced AI concepts and practical software development patterns.
+- **I'm looking to collaborate on:** Open source projects related to AI, web development, or data analysis.
+- **How to reach me:** [Email](mailto:finochio44@gmail.com) or [LinkedIn](https://linkedin.com/in/giuliana-finochio-b8a42a225/).
+- **Location:** Vila Nova de Gaia - Porto
+- **Pronouns:** She/Her
+
+### 🚀 Open to Opportunities
+
+I am actively looking for an **internship** where I can contribute to meaningful projects, grow my skills, and learn from experienced developers.
+
+---
+
+### 🛠️ My Tech Stack & Skills
+
+- **Languages:** Python, Java, SQL
+- **Web Development:** HTML, CSS, JavaScript
+- **Tools & Concepts:** APIs, Git, UI/UX Principles
+- **Learning:** AI/ML Tools, Large Language Models (LLMs)
+
+---
+
+### ⭐ Featured Projects
+
+1.  **SiteViagens** — A travel website project developed to practice and demonstrate fundamental web development skills.
+    -   **Tech:** HTML, CSS, JavaScript
+    -   **Repo:** [GiulianaFnch/SiteViagens](https://github.com/GiulianaFnch/SiteViagens)
+
+2.  **Portfolio** — My personal portfolio website, showcasing my projects and skills.
+    -   **Tech:** HTML, CSS
+    -   **Repo:** [GiulianaFnch/GiulianaFnch.github.io](https://github.com/GiulianaFnch/GiulianaFnch.github.io)
+
+---
+
+### 🎶 Music & Hobbies
+
+When I'm not coding, you can find me listening to music pretty much all day. I'm also a big fan of horses and equestrian sports, especially dressage and show jumping 🏇.
+
+<a href="https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID">
+  <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" width="400" />
+</a>
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GiulianaFnch&show_icons=true&theme=github_dark" alt="Giuliana's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GiulianaFnch&theme=github_dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiulianaFnch&layout=compact&theme=github_dark" alt="Top Languages" />
+</p>
+
+---
+*This README was generated with help from GitHub Copilot.*
