@@ -1,6 +1,6 @@
 # Hi, I'm Giuliana Finochio 👋
 
-> AI Developer Student. Python, Data Science, and automation enthusiast. Always learning. :)
+> AI Developer Student. Python, Data Science, and UX designer enthusiast. Always learning. :)
 
 [![Portfolio](https://img.shields.io/badge/website-portfolio-blue)](https://giulianafnch.github.io/) [![LinkedIn](https://img.shields.io/badge/linkedin-connect-0077B5)](https://linkedin.com/in/giuliana-finochio-b8a42a225/) [![Email](https://img.shields.io/badge/email-finochio44%40gmail.com-green)](mailto:finochio44@gmail.com) [![Instagram](https://img.shields.io/badge/instagram-@giulianafnch-purple)](https://instagram.com/giulianafnch/)
 
@@ -8,11 +8,11 @@
 
 ### About Me
 
-I'm a student in an Artificial Intelligence Applications Development (CTeSP) course at ISLA Gaia, where I'm building a strong foundation in AI and software engineering. I am passionate about developing software that has a real impact, always keeping the UI, user experience, and data insights in mind.
+I'm a student in an Artificial Intelligence Applications Development (CTeSP) course at ISLA Gaia, where I'm building a strong foundation in AI and software development. I am passionate about developing software that has a real impact, always keeping the UI, user experience, and data insights in mind.
 
-- **Current focus:** Developing my technical skills in the AI field, including Machine Learning, LLMs, Python development, and data engineering.
+- **Current focus:** Developing my foundation of technical skills in the AI field, including Python development, Machine Learning, probabilites and statistics!
 - **I'm currently learning:** Python.
-- **I'm looking to collaborate on:** Open source projects related to AI, web development, or data analysis.
+- **I'm looking to collaborate on:** Open source projects related to AI, Computer Vision, NLP, Deep Learning.
 - **How to reach me:** [Email](mailto:finochio44@gmail.com) or [LinkedIn](https://linkedin.com/in/giuliana-finochio-b8a42a225/).
 - **Location:** Vila Nova de Gaia - Porto
 - **Pronouns:** She/Her
